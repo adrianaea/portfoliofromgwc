@@ -14,7 +14,7 @@ function About() {
 
       <div className="bg-white w-full min-h-[80vh] flex flex-row items-center justify-center gap-16 px-[8vw] py-20">
         <img
-          src="src/assets/photo.png"
+          src="../assets/photo.png"
           alt="Headshot"
           className="w-72 h-72 rounded-md object-cover shrink-0"
         />
