@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div>
-        <BrowserRouter>
+        <BrowserRouter basename="/portfoliofromgwc">
           <Navbar />
           <Routes>
             <Route path="/" element={<Home />} />
