@@ -1,4 +1,5 @@
 import "../index.css";
+import photo from "../assets/photo.png";
 
 function About() {
   return (
@@ -14,7 +15,7 @@ function About() {
 
       <div className="bg-white w-full min-h-[80vh] flex flex-row items-center justify-center gap-16 px-[8vw] py-20">
         <img
-          src="../assets/photo.png"
+          src={photo}
           alt="Headshot"
           className="w-72 h-72 rounded-md object-cover shrink-0"
         />
