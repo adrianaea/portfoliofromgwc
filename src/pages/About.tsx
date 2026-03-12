@@ -6,7 +6,7 @@ function About() {
     <main className="w-screen flex flex-col items-start">
       <div className="w-full h-[50vh] bg-[#FFD3E7]">
         <p className="mt-[4vh] ml-[4vw] font-bold text-lg text-left">
-          imani-mcquay.com
+          adriana-abreu.com
         </p>
         <div className="mt-[11vh] text-left ml-[5vw] leading-18 text-6xl font-bold">
           <h1>About Me</h1>
