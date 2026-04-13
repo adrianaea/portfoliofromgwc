@@ -30,7 +30,7 @@ function About() {
           <div className="mt-[10vh] text-[#FFD3E7] text-left ml-[5vw] ">
             <h1 className="text-6xl mb-[5vh]">Fun Facts</h1>
             <p className="text-2xl font-normal">
-              - I have a pet cat <br></br>- My favorite food is sushi
+              - I love photography <br></br>- My favorite desert is a cinnamon roll 
             </p>
           </div>
         </div>

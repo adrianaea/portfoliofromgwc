@@ -23,7 +23,7 @@ const PdfModal = () => {
             </button>
 
             <iframe
-              src="/fakeResume.pdf"
+              src="/AAbreuResume26.pdf"
               className="w-full h-full rounded-b-lg"
               title="PDF Viewer"
             />

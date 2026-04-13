@@ -32,18 +32,17 @@ function Home() {
           <p className="text-2xl">
             {" "}
             <span className="font-bold">Languages: </span>
-            Python, Java, C, C++, TypeScript, HTML, CSS
+            Python, C, Java, TypeScript, HTML, CSS
           </p>
           <p className="text-2xl mt-[3vh]">
             {" "}
             <span className="font-bold">Frameworks + Libraries: </span>
-            React, Node.js, Express, TailwindCSS, MongoDB, Ultralytics, YOLO
+            React, Node.js, Express, TailwindCSS, MongoDB
           </p>
           <p className="text-2xl mt-[3vh]">
             {" "}
             <span className="font-bold">Tools + Platforms: </span>
-            GitHub, VS Code, Jupyter Notebook, Google Colab, AutoGen, Android
-            Studio
+            GitHub, VS Code, Figma
           </p>
           <br />
           <br />
